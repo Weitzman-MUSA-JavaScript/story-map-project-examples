@@ -1,0 +1,1553 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-24T21:44:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31842037",
+        "addr:full": "京都市東山区三十三間堂廻り町657",
+        "addr:housenumber": "657",
+        "addr:street": "京都市東山区三十三間堂迴り",
+        "amenity": "place_of_worship",
+        "contact:instagram": "sanjusangendo_temple",
+        "contact:phone": "+81-075-561-0467",
+        "contact:tripadvisor": "321411",
+        "contact:website": "https://www.sanjusangendo.jp/",
+        "fee": "yes",
+        "name": "三十三間堂",
+        "name:en": "Sanjūsangen-dō",
+        "name:fr": "Pavillon des trente-trois intervalles",
+        "name:it": "Sanjusangen-do (Rengeo-in)",
+        "name:ja-Hira": "さんじゅうさんげんどう",
+        "name:ja-Latn": "Sanjūsangen-dō",
+        "name:zh": "三十三間堂",
+        "official_name": "蓮華王院",
+        "official_name:fr": "Temple Rengeō",
+        "official_name:ja-Hira": "れんげおういん",
+        "official_name:ja-Latn": "Rengeō-in",
+        "opening_hours": "Apr 01-Nov 15 Mo-Su 08:30-17:00; Nov 16-Mar 31 Mo-Su 09:00-16:00",
+        "religion": "buddhist",
+        "start_date": "1165",
+        "wikidata": "Q653319",
+        "wikimedia_commons": "Category:Sanjūsangen-dō",
+        "wikipedia": "ja:三十三間堂"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7712639,
+              34.9890499
+            ],
+            [
+              135.7712372,
+              34.9886436
+            ],
+            [
+              135.7712322,
+              34.9885047
+            ],
+            [
+              135.7711254,
+              34.986986
+            ],
+            [
+              135.7711226,
+              34.9869325
+            ],
+            [
+              135.7711545,
+              34.9869059
+            ],
+            [
+              135.7716746,
+              34.9869126
+            ],
+            [
+              135.7721958,
+              34.9869131
+            ],
+            [
+              135.7724433,
+              34.9869114
+            ],
+            [
+              135.7724443,
+              34.9870376
+            ],
+            [
+              135.772234,
+              34.9870406
+            ],
+            [
+              135.7722448,
+              34.9872144
+            ],
+            [
+              135.7722902,
+              34.9872128
+            ],
+            [
+              135.772318,
+              34.9877359
+            ],
+            [
+              135.7723278,
+              34.9877358
+            ],
+            [
+              135.7723313,
+              34.9878451
+            ],
+            [
+              135.7723636,
+              34.9884998
+            ],
+            [
+              135.7723721,
+              34.9884995
+            ],
+            [
+              135.7723894,
+              34.9888243
+            ],
+            [
+              135.7723647,
+              34.9888252
+            ],
+            [
+              135.7723696,
+              34.9889184
+            ],
+            [
+              135.7723959,
+              34.9889172
+            ],
+            [
+              135.772403,
+              34.9890409
+            ],
+            [
+              135.7713291,
+              34.9890793
+            ],
+            [
+              135.771301,
+              34.9890703
+            ],
+            [
+              135.771271,
+              34.9890557
+            ],
+            [
+              135.7712639,
+              34.9890499
+            ]
+          ]
+        ]
+      },
+      "id": "way/31842037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98103477",
+        "alt_name:de": "Tempel des zur Ruhe gekommenen Drachen",
+        "alt_name:fr": "Temple du repos du dragon",
+        "amenity": "place_of_worship",
+        "denomination": "rinzai",
+        "denomination:ja": "臨済宗",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "heritage",
+        "landuse": "religious",
+        "name": "龍安寺",
+        "name:de": "Ryōan-ji",
+        "name:en": "Ryōan-ji",
+        "name:fr": "Ryōan-ji",
+        "name:ja": "龍安寺",
+        "name:ja_kana": "りょうあんじ",
+        "name:ja_rm": "Ryōan-ji",
+        "name:ko": "료안지",
+        "name:ru": "Рёандзи",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "ref:whc": "688-015",
+        "religion": "buddhist",
+        "start_date": "1450",
+        "toilets:wheelchair": "yes",
+        "tourism": "attraction",
+        "url": "http://www.ryoanji.jp/",
+        "whc:criteria": "(ii),(iv)",
+        "whc:inscription_date": "1994",
+        "wheelchair": "limited",
+        "wikidata": "Q587371",
+        "wikipedia": "ja:龍安寺"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7192237,
+              35.034214
+            ],
+            [
+              135.7190102,
+              35.0347885
+            ],
+            [
+              135.7187889,
+              35.0351841
+            ],
+            [
+              135.7181367,
+              35.0351795
+            ],
+            [
+              135.716364,
+              35.0344986
+            ],
+            [
+              135.7154552,
+              35.0338403
+            ],
+            [
+              135.7157136,
+              35.0329537
+            ],
+            [
+              135.7158299,
+              35.0325824
+            ],
+            [
+              135.7159973,
+              35.0321149
+            ],
+            [
+              135.7161806,
+              35.0320382
+            ],
+            [
+              135.7161883,
+              35.032045
+            ],
+            [
+              135.7162067,
+              35.0320362
+            ],
+            [
+              135.7162048,
+              35.0320237
+            ],
+            [
+              135.7166712,
+              35.0318025
+            ],
+            [
+              135.7167058,
+              35.0319506
+            ],
+            [
+              135.7167569,
+              35.0320566
+            ],
+            [
+              135.7168886,
+              35.0322159
+            ],
+            [
+              135.7170734,
+              35.0323526
+            ],
+            [
+              135.7172298,
+              35.0324319
+            ],
+            [
+              135.7173535,
+              35.0324718
+            ],
+            [
+              135.7174621,
+              35.0324943
+            ],
+            [
+              135.7176588,
+              35.0325101
+            ],
+            [
+              135.7182024,
+              35.0325298
+            ],
+            [
+              135.71819,
+              35.0328087
+            ],
+            [
+              135.7190242,
+              35.0329101
+            ],
+            [
+              135.7191617,
+              35.0328331
+            ],
+            [
+              135.7193933,
+              35.0327714
+            ],
+            [
+              135.7194129,
+              35.0325481
+            ],
+            [
+              135.7194193,
+              35.0324443
+            ],
+            [
+              135.7194224,
+              35.0319284
+            ],
+            [
+              135.7194327,
+              35.0319148
+            ],
+            [
+              135.7194567,
+              35.0319014
+            ],
+            [
+              135.7195766,
+              35.031894
+            ],
+            [
+              135.7196027,
+              35.0325461
+            ],
+            [
+              135.719622,
+              35.032548
+            ],
+            [
+              135.7196326,
+              35.0326976
+            ],
+            [
+              135.7199066,
+              35.032702
+            ],
+            [
+              135.7199116,
+              35.0328114
+            ],
+            [
+              135.7201369,
+              35.032811
+            ],
+            [
+              135.7201345,
+              35.0326107
+            ],
+            [
+              135.7202279,
+              35.0326494
+            ],
+            [
+              135.7202979,
+              35.0326953
+            ],
+            [
+              135.7206591,
+              35.0329332
+            ],
+            [
+              135.7205811,
+              35.0333535
+            ],
+            [
+              135.7206424,
+              35.0335726
+            ],
+            [
+              135.720643,
+              35.0336606
+            ],
+            [
+              135.7206533,
+              35.0339347
+            ],
+            [
+              135.7198018,
+              35.0339463
+            ],
+            [
+              135.7192237,
+              35.034214
+            ]
+          ]
+        ]
+      },
+      "id": "way/98103477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98115917",
+        "addr:block_number": "1",
+        "addr:city": "京都市",
+        "addr:country": "JP",
+        "addr:postcode": "603-8361",
+        "addr:province": "京都府",
+        "addr:quarter": "金閣寺町",
+        "addr:suburb": "北区",
+        "alt_name": "鹿苑寺",
+        "alt_name:de": "Rehgarten-Tempel (Rokuon-ji)",
+        "alt_name:en": "Rokuon-ji",
+        "alt_name:fr": "Rokuon-ji",
+        "amenity": "place_of_worship",
+        "denomination": "rinzai",
+        "denomination:ja": "臨済宗",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "heritage",
+        "is_in:city": "Kyoto",
+        "is_in:country": "Japan",
+        "is_in:country_code": "JP",
+        "is_in:iso_3166_2": "JP-26",
+        "is_in:province": "Kyoto Prefecture",
+        "landuse": "religious",
+        "name": "金閣寺",
+        "name:de": "Goldener-Pavillon-Tempel (Kinkaku-ji)",
+        "name:en": "Kinkaku-ji (Golden Pavilion Temple)",
+        "name:es": "Kinkaku-ji",
+        "name:fr": "Temple du Pavillon d’or (Kinkaku-ji)",
+        "name:he": "המקדש המוזהב",
+        "name:ja": "金閣寺",
+        "name:ja_kana": "きんかくじ",
+        "name:ja_rm": "Kinkaku-ji",
+        "name:ko": "금각사",
+        "name:ru": "Кинкаку-дзи",
+        "name:th": "วัดทอง",
+        "name:uk": "Монастир Кінкаку",
+        "name:vi": "Kinkakuji",
+        "name:zh": "鹿苑寺",
+        "official_name": "鹿苑寺",
+        "official_name:en": "Rokuon-ji",
+        "official_name:ja": "鹿苑寺",
+        "official_name:ja_kana": "ろくおんじ",
+        "ref:whc": "688-013",
+        "religion": "buddhist",
+        "website": "https://www.shokoku-ji.jp/",
+        "whc:criteria": "(ii),(iv)",
+        "whc:inscription_date": "1994",
+        "wikidata": "Q270983",
+        "wikipedia": "ja:鹿苑寺",
+        "wikipedia:en": "Kinkaku-ji"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7318691,
+              35.0407558
+            ],
+            [
+              135.7319127,
+              35.0410415
+            ],
+            [
+              135.7317622,
+              35.0412605
+            ],
+            [
+              135.7311273,
+              35.0408016
+            ],
+            [
+              135.7304674,
+              35.0405073
+            ],
+            [
+              135.7300597,
+              35.0405161
+            ],
+            [
+              135.7294833,
+              35.0407951
+            ],
+            [
+              135.7280483,
+              35.0407571
+            ],
+            [
+              135.7276028,
+              35.0403185
+            ],
+            [
+              135.7270998,
+              35.0397542
+            ],
+            [
+              135.7273605,
+              35.0393641
+            ],
+            [
+              135.7280303,
+              35.038275
+            ],
+            [
+              135.7281661,
+              35.0380729
+            ],
+            [
+              135.7282372,
+              35.0380324
+            ],
+            [
+              135.7284397,
+              35.0380049
+            ],
+            [
+              135.7284464,
+              35.0382575
+            ],
+            [
+              135.7293777,
+              35.0382618
+            ],
+            [
+              135.7293747,
+              35.0380999
+            ],
+            [
+              135.7297959,
+              35.038111
+            ],
+            [
+              135.7299236,
+              35.0380704
+            ],
+            [
+              135.729928,
+              35.03791
+            ],
+            [
+              135.7308717,
+              35.0379236
+            ],
+            [
+              135.7309357,
+              35.0379482
+            ],
+            [
+              135.7316956,
+              35.0387673
+            ],
+            [
+              135.7317263,
+              35.0388102
+            ],
+            [
+              135.7317671,
+              35.0389369
+            ],
+            [
+              135.7317884,
+              35.0390288
+            ],
+            [
+              135.7318147,
+              35.0392022
+            ],
+            [
+              135.7318169,
+              35.0392565
+            ],
+            [
+              135.7318289,
+              35.0396944
+            ],
+            [
+              135.7318407,
+              35.0398536
+            ],
+            [
+              135.7318691,
+              35.0407558
+            ]
+          ]
+        ]
+      },
+      "id": "way/98115917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105817561",
+        "addr:block_number": "2",
+        "addr:city": "京都市",
+        "addr:country": "JP",
+        "addr:postcode": "606-8402",
+        "addr:province": "京都府",
+        "addr:quarter": "銀閣寺町",
+        "addr:suburb": "左京区",
+        "alt_name": "Higashiyama Jisho-ji",
+        "amenity": "place_of_worship",
+        "contact:phone": "+81 0757715725",
+        "contact:tripadvisor": "321398",
+        "contact:website": "http://www.shokoku-ji.jp/g_about.html",
+        "denomination": "rinzai",
+        "denomination:ja": "臨済宗",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "heritage",
+        "landuse": "religious",
+        "name": "銀閣寺",
+        "name:en": "Ginkakuji",
+        "name:es": "Ginkaku-ji",
+        "name:fr": "Temple du pavillon d'argent",
+        "name:ja-Hira": "ぎんかくじ",
+        "name:ja-Latn": "Ginkaku-ji",
+        "name:ko": "지쇼지",
+        "name:ru": "Гинкакудзи",
+        "name:th": "วัดกิงกะกุ",
+        "name:vi": "Ginkakuji",
+        "name:zh": "慈照寺",
+        "note": "創建1490年 足利義政",
+        "official_name": "慈照寺",
+        "official_name:en": "Jishō Temple",
+        "official_name:fr": "Temple Jishō",
+        "official_name:ja-Hira": "じゅしょうじ",
+        "official_name:ja-Latn": "Jishō-ji",
+        "official_name:ru": "Дзисёдзи",
+        "ref:whc": "688-014",
+        "religion": "buddhist",
+        "whc:criteria": "(ii),(iv)",
+        "whc:inscription_date": "1994",
+        "wikidata": "Q257473",
+        "wikimedia_commons": "Category:Ginkaku-ji",
+        "wikipedia": "ja:慈照寺"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7977102,
+              35.0274233
+            ],
+            [
+              135.7977094,
+              35.0272177
+            ],
+            [
+              135.79766,
+              35.0272182
+            ],
+            [
+              135.7976613,
+              35.0271912
+            ],
+            [
+              135.7974803,
+              35.0271899
+            ],
+            [
+              135.7974852,
+              35.0271095
+            ],
+            [
+              135.7974896,
+              35.0270591
+            ],
+            [
+              135.7975065,
+              35.0269567
+            ],
+            [
+              135.7975172,
+              35.0268293
+            ],
+            [
+              135.7974904,
+              35.0266844
+            ],
+            [
+              135.7975025,
+              35.0265022
+            ],
+            [
+              135.7975118,
+              35.0263769
+            ],
+            [
+              135.7974518,
+              35.0262969
+            ],
+            [
+              135.7974075,
+              35.0261388
+            ],
+            [
+              135.7974598,
+              35.0260301
+            ],
+            [
+              135.7975617,
+              35.0260075
+            ],
+            [
+              135.7976878,
+              35.0259686
+            ],
+            [
+              135.7978018,
+              35.0259433
+            ],
+            [
+              135.7981609,
+              35.0259947
+            ],
+            [
+              135.7983991,
+              35.0259709
+            ],
+            [
+              135.7986652,
+              35.0259727
+            ],
+            [
+              135.7988905,
+              35.0261001
+            ],
+            [
+              135.7990783,
+              35.0262802
+            ],
+            [
+              135.799207,
+              35.0264471
+            ],
+            [
+              135.799207,
+              35.0266404
+            ],
+            [
+              135.7992338,
+              35.0268425
+            ],
+            [
+              135.7992231,
+              35.0271017
+            ],
+            [
+              135.7993374,
+              35.0274343
+            ],
+            [
+              135.7994498,
+              35.027791
+            ],
+            [
+              135.7991951,
+              35.0278414
+            ],
+            [
+              135.7991591,
+              35.0278363
+            ],
+            [
+              135.7991394,
+              35.027849
+            ],
+            [
+              135.7989654,
+              35.0278712
+            ],
+            [
+              135.7988151,
+              35.0278766
+            ],
+            [
+              135.7985232,
+              35.0278812
+            ],
+            [
+              135.7983546,
+              35.0278593
+            ],
+            [
+              135.7982369,
+              35.0278537
+            ],
+            [
+              135.7981341,
+              35.0278145
+            ],
+            [
+              135.7979885,
+              35.0277632
+            ],
+            [
+              135.7978333,
+              35.0277594
+            ],
+            [
+              135.7976981,
+              35.0277606
+            ],
+            [
+              135.7975579,
+              35.0277174
+            ],
+            [
+              135.7975574,
+              35.0275585
+            ],
+            [
+              135.797659,
+              35.0275576
+            ],
+            [
+              135.7976603,
+              35.0274261
+            ],
+            [
+              135.7977102,
+              35.0274233
+            ]
+          ]
+        ]
+      },
+      "id": "way/105817561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218470281",
+        "alt_name": "苔寺",
+        "alt_name:en": "Kokedera Moss Temple",
+        "alt_name:fr": "Temple de la mousse",
+        "alt_name:ja-Latn": "Koke-dera",
+        "alt_name:ja_kana": "こけでら",
+        "alt_name:ru": "Кокэдэра",
+        "amenity": "place_of_worship",
+        "charge": "3000 ¥",
+        "contact:website": "https://intosaihoji.com/en/booking/nichinichi",
+        "denomination": "rinzai",
+        "denomination:ja": "臨済宗",
+        "fee": "yes",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "heritage",
+        "landuse": "religious",
+        "leisure": "park",
+        "name": "西芳寺",
+        "name:en": "Saihoji Temple",
+        "name:fr": "Temple Saihō",
+        "name:ja-Hira": "さいほうじ",
+        "name:ja-Latn": "Saihō-ji",
+        "name:ko": "사이호지",
+        "name:ru": "Сайходзи",
+        "name:zh": "西芳寺",
+        "ref:whc": "688-011",
+        "religion": "buddhist",
+        "reservation": "only",
+        "start_date": "1339",
+        "whc:criteria": "(ii),(iv)",
+        "whc:inscription_date": "1994",
+        "wikidata": "Q1516753",
+        "wikimedia_commons": "Category:Saihouji",
+        "wikipedia": "ja:西芳寺"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.6852449,
+              34.9924246
+            ],
+            [
+              135.6851033,
+              34.9926094
+            ],
+            [
+              135.6849622,
+              34.9927173
+            ],
+            [
+              135.6848055,
+              34.9928892
+            ],
+            [
+              135.6847131,
+              34.9929603
+            ],
+            [
+              135.6843949,
+              34.9931944
+            ],
+            [
+              135.684037,
+              34.9930915
+            ],
+            [
+              135.6836701,
+              34.9929529
+            ],
+            [
+              135.6833347,
+              34.9928212
+            ],
+            [
+              135.6831399,
+              34.9925563
+            ],
+            [
+              135.6829523,
+              34.9925136
+            ],
+            [
+              135.682669,
+              34.9924447
+            ],
+            [
+              135.6823407,
+              34.9924186
+            ],
+            [
+              135.6821429,
+              34.9923558
+            ],
+            [
+              135.6819608,
+              34.9921944
+            ],
+            [
+              135.6819852,
+              34.9918933
+            ],
+            [
+              135.6820954,
+              34.9916243
+            ],
+            [
+              135.6821451,
+              34.9914507
+            ],
+            [
+              135.6828102,
+              34.9914986
+            ],
+            [
+              135.6833328,
+              34.9914587
+            ],
+            [
+              135.6835004,
+              34.9915043
+            ],
+            [
+              135.6838433,
+              34.9916527
+            ],
+            [
+              135.6844682,
+              34.9917117
+            ],
+            [
+              135.6848823,
+              34.991901
+            ],
+            [
+              135.6849536,
+              34.991998
+            ],
+            [
+              135.6850928,
+              34.9922311
+            ],
+            [
+              135.6852449,
+              34.9924246
+            ]
+          ]
+        ]
+      },
+      "id": "way/218470281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/336641107",
+        "alt_name:fr": "Temple de l'eau pure",
+        "amenity": "place_of_worship",
+        "charge": "400 JPY",
+        "contact:facebook": "Kiyomizudera.Kyoto",
+        "contact:instagram": "feel_kiyomizudera",
+        "contact:phone": "+81-75-551-1234",
+        "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g298564-d321401-Reviews-Kiyomizu_dera_Temple-Kyoto_Kyoto_Prefecture_Kinki.html",
+        "contact:website": "https://www.kiyomizudera.or.jp/",
+        "contact:youtube": "https://www.youtube.com/channel/UCBFW3Al5zoKJOVJaLcDUL9Q",
+        "denomination": "yogacara",
+        "denomination:ja": "北法相宗",
+        "fee": "yes",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "yes",
+        "landuse": "religious",
+        "name": "清水寺",
+        "name:cs": "Chrám Kijomizu-dera",
+        "name:de": "Kiyomizu-dera",
+        "name:en": "Kiyomizu-dera Temple",
+        "name:es": "Kiyomizu-dera",
+        "name:fr": "Temple Kiyomizu",
+        "name:ja-Hira": "きよみずでら",
+        "name:ja-Latn": "Kiyomizu-dera",
+        "name:ko": "기요미즈데라",
+        "name:ru": "Киёмидзу-дэра",
+        "name:th": "วัดน้ำใส",
+        "name:zh": "清水寺",
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "ref:whc": "688-004",
+        "religion": "buddhist",
+        "source": "Bing, 2007-12",
+        "tourism": "attraction",
+        "whc:criteria": "(ii),(iv)",
+        "whc:inscription_date": "1994",
+        "wikidata": "Q221716",
+        "wikimedia_commons": "Category:Kiyomizu-dera",
+        "wikipedia": "ja:清水寺"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7829414,
+              34.9960082
+            ],
+            [
+              135.7829636,
+              34.9954831
+            ],
+            [
+              135.7827778,
+              34.9954816
+            ],
+            [
+              135.7827804,
+              34.9953402
+            ],
+            [
+              135.7827824,
+              34.9952312
+            ],
+            [
+              135.7828159,
+              34.9952306
+            ],
+            [
+              135.7828156,
+              34.9951869
+            ],
+            [
+              135.7828151,
+              34.9950958
+            ],
+            [
+              135.782792,
+              34.9950793
+            ],
+            [
+              135.7828372,
+              34.9950302
+            ],
+            [
+              135.7827879,
+              34.9949843
+            ],
+            [
+              135.782719,
+              34.9949202
+            ],
+            [
+              135.7826888,
+              34.9947301
+            ],
+            [
+              135.7827029,
+              34.9945265
+            ],
+            [
+              135.7828426,
+              34.9940795
+            ],
+            [
+              135.7830974,
+              34.9936251
+            ],
+            [
+              135.7838999,
+              34.9930032
+            ],
+            [
+              135.7841507,
+              34.9928088
+            ],
+            [
+              135.7844989,
+              34.992539
+            ],
+            [
+              135.7854195,
+              34.992607
+            ],
+            [
+              135.7854527,
+              34.9926094
+            ],
+            [
+              135.7855326,
+              34.9926153
+            ],
+            [
+              135.7856014,
+              34.9926204
+            ],
+            [
+              135.7859218,
+              34.9938885
+            ],
+            [
+              135.7862131,
+              34.9945475
+            ],
+            [
+              135.7862762,
+              34.9946154
+            ],
+            [
+              135.7856742,
+              34.9958187
+            ],
+            [
+              135.7853932,
+              34.9961083
+            ],
+            [
+              135.7849827,
+              34.996234
+            ],
+            [
+              135.7849288,
+              34.9962444
+            ],
+            [
+              135.7847288,
+              34.9962831
+            ],
+            [
+              135.7847207,
+              34.9962847
+            ],
+            [
+              135.7846911,
+              34.9962904
+            ],
+            [
+              135.784596,
+              34.9963088
+            ],
+            [
+              135.7834329,
+              34.9962356
+            ],
+            [
+              135.783262,
+              34.9959933
+            ],
+            [
+              135.7829414,
+              34.9960082
+            ]
+          ]
+        ]
+      },
+      "id": "way/336641107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352013907",
+        "alt_name:en": "Southern Zen Temple",
+        "alt_name:fr": "Temple Zen du Sud",
+        "amenity": "place_of_worship",
+        "contact:facebook": "KyotoNanzenji",
+        "contact:instagram": "daihonzan_nanzenji",
+        "contact:tripadvisor": "321091",
+        "contact:twitter": "nanzenji_kyoto",
+        "contact:website": "http://nanzenji.com/",
+        "denomination": "rinzai",
+        "name": "南禅寺",
+        "name:en": "Nanzen-ji",
+        "name:es": "Nanzen-ji",
+        "name:fr": "Temple Nanzen",
+        "name:ja-Hira": "なんぜんじ",
+        "name:ja-Latn": "Nanzen-ji",
+        "opening_hours": "Mar-Nov Mo-Su 08:40-17:00; Dec-Feb Mo-Su 08:40-16:30; Dec 28-Dec 31 off",
+        "religion": "buddhist",
+        "start_date": "1291",
+        "wikidata": "Q1089767",
+        "wikimedia_commons": "Category:Nanzenji",
+        "wikipedia": "ja:南禅寺"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7913625,
+              35.0126169
+            ],
+            [
+              135.7913805,
+              35.0122711
+            ],
+            [
+              135.7914021,
+              35.0122565
+            ],
+            [
+              135.791563,
+              35.0122587
+            ],
+            [
+              135.7916294,
+              35.0119133
+            ],
+            [
+              135.7911379,
+              35.0119061
+            ],
+            [
+              135.7911084,
+              35.0118128
+            ],
+            [
+              135.790639,
+              35.0118293
+            ],
+            [
+              135.7906173,
+              35.0116576
+            ],
+            [
+              135.7905827,
+              35.0113932
+            ],
+            [
+              135.7905686,
+              35.0113498
+            ],
+            [
+              135.7904781,
+              35.0111664
+            ],
+            [
+              135.7904432,
+              35.011118
+            ],
+            [
+              135.790396,
+              35.0110392
+            ],
+            [
+              135.7906782,
+              35.0109648
+            ],
+            [
+              135.7911824,
+              35.01096
+            ],
+            [
+              135.7911858,
+              35.0108081
+            ],
+            [
+              135.7920113,
+              35.0108011
+            ],
+            [
+              135.7920038,
+              35.0110035
+            ],
+            [
+              135.7933946,
+              35.0109646
+            ],
+            [
+              135.7933762,
+              35.0106898
+            ],
+            [
+              135.7932578,
+              35.0106926
+            ],
+            [
+              135.7932241,
+              35.0103159
+            ],
+            [
+              135.7934543,
+              35.0103086
+            ],
+            [
+              135.7934572,
+              35.0103731
+            ],
+            [
+              135.7935259,
+              35.0104192
+            ],
+            [
+              135.7935693,
+              35.0105894
+            ],
+            [
+              135.794719,
+              35.0106241
+            ],
+            [
+              135.7947996,
+              35.0106625
+            ],
+            [
+              135.7949792,
+              35.010909
+            ],
+            [
+              135.7947927,
+              35.0109614
+            ],
+            [
+              135.7948202,
+              35.0113248
+            ],
+            [
+              135.7949549,
+              35.0125342
+            ],
+            [
+              135.7943126,
+              35.0126641
+            ],
+            [
+              135.7941946,
+              35.0123219
+            ],
+            [
+              135.7934999,
+              35.0125427
+            ],
+            [
+              135.7936552,
+              35.0127954
+            ],
+            [
+              135.7935419,
+              35.012842
+            ],
+            [
+              135.7930637,
+              35.0128993
+            ],
+            [
+              135.7927322,
+              35.0129361
+            ],
+            [
+              135.7921357,
+              35.0127937
+            ],
+            [
+              135.7913625,
+              35.0126169
+            ]
+          ]
+        ]
+      },
+      "id": "way/352013907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359896810",
+        "amenity": "place_of_worship",
+        "contact:tripadvisor": "1310392",
+        "contact:website": "https://toji.or.jp/",
+        "denomination": "shingon_shu",
+        "denomination:ja": "真言宗",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "heritage",
+        "landuse": "religious",
+        "name": "東寺",
+        "name:en": "East Temple",
+        "name:fr": "Temple de l'Est",
+        "name:ja-Hira": "とうじ",
+        "name:ja-Latn": "Tō-ji",
+        "name:lzh": "東寺",
+        "name:ru": "Тодзи",
+        "name:zh": "东寺",
+        "name:zh-Hans": "东寺",
+        "name:zh-Hant": "東寺",
+        "official_name": "教王護国寺",
+        "official_name:en": "Kyōōgokoku-ji",
+        "official_name:ja-Hira": "きょうおうごこくじ",
+        "official_name:ja-Latn": "Kyō-ō-gokoku-ji",
+        "official_name:ru": "Кёогококу-дзи",
+        "ref:whc": "688-003",
+        "religion": "buddhist",
+        "source": "Bing",
+        "whc:criteria": "(ii),(iv)",
+        "whc:inscription_date": "1994",
+        "wheelchair": "limited",
+        "wikidata": "Q1046403",
+        "wikimedia_commons": "Category:Toji",
+        "wikipedia": "ja:東寺"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.7476171,
+              34.9823488
+            ],
+            [
+              135.7462607,
+              34.9823508
+            ],
+            [
+              135.7463098,
+              34.9793877
+            ],
+            [
+              135.7463445,
+              34.9793582
+            ],
+            [
+              135.7470631,
+              34.9794055
+            ],
+            [
+              135.7477673,
+              34.9794146
+            ],
+            [
+              135.7490397,
+              34.9794651
+            ],
+            [
+              135.7491393,
+              34.979557
+            ],
+            [
+              135.7491592,
+              34.9817052
+            ],
+            [
+              135.7490788,
+              34.9817052
+            ],
+            [
+              135.7490779,
+              34.981798
+            ],
+            [
+              135.7491387,
+              34.9817995
+            ],
+            [
+              135.7491422,
+              34.9821351
+            ],
+            [
+              135.7490275,
+              34.9821366
+            ],
+            [
+              135.7490296,
+              34.9822909
+            ],
+            [
+              135.748929,
+              34.982293
+            ],
+            [
+              135.7489338,
+              34.9828108
+            ],
+            [
+              135.7487268,
+              34.9828148
+            ],
+            [
+              135.7487252,
+              34.9828514
+            ],
+            [
+              135.7484535,
+              34.9828505
+            ],
+            [
+              135.7484289,
+              34.9829824
+            ],
+            [
+              135.7483923,
+              34.9830199
+            ],
+            [
+              135.7476108,
+              34.9830135
+            ],
+            [
+              135.7476171,
+              34.9823488
+            ]
+          ]
+        ]
+      },
+      "id": "way/359896810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6222358081",
+        "board_type": "history",
+        "information": "board",
+        "name": "高台寺",
+        "name:en": "Kodai-ji",
+        "name:fr": "Kōdai-ji",
+        "name:ja-Hira": "こうだいじ",
+        "name:ja-Latn": "Kōdai-ji",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7799597,
+          35.0005089
+        ]
+      },
+      "id": "node/6222358081"
+    }
+  ]
+}

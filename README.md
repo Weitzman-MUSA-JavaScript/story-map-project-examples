@@ -1,8 +1,11 @@
 ## Samples from previous years
 
-* [_What's in a Vacant Lot_](examples/Vacant_Lots_AdrianLeon/), Adrián León, Max Masuda-Farkas, and Xuezhu Zhao
-* [_Surveillance in New Orleans_](examples/NoLA_Surveillance_BrianaCervantes/), Briana Cervantes
-* [_A Spatial History of House Music_](examples/House_Music_MarlanaZink/), Marlana Zink
+* [_What's in a Vacant Lot_](Vacant_Lots_AdrianLeon/), Adrián León, Max Masuda-Farkas, and Xuezhu Zhao
+* [_Surveillance in New Orleans_](NoLA_Surveillance_BrianaCervantes/), Briana Cervantes
+* [_A Spatial History of House Music_](House_Music_MarlanaZink/), Marlana Zink
+* [_How Accessible is Your New Home?_](Singapore_Housing_ByronHuang/), Byron Huang
+* [_Kyoto: City of Buddhist Temples_](Kyoto_Temples_EChinLi/), E-Chin Li
+* [_Cobalt: From Mines to Mobiles_](Cobalt_Mining_AvaniAdhikari/), Avani Adhikari
 
 ## Samples from elsewhere on the internet
 
