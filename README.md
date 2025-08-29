@@ -6,6 +6,8 @@
 * [_How Accessible is Your New Home?_](Singapore_Housing_ByronHuang/), Byron Huang
 * [_Kyoto: City of Buddhist Temples_](Kyoto_Temples_EChinLi/), E-Chin Li
 * [_Cobalt: From Mines to Mobiles_](Cobalt_Mining_AvaniAdhikari/), Avani Adhikari
+* [_The History of Singapore's Public Housing_](Singapore_Housing_SeanKoh/), Sean Koh
+* [_How accessible is your new home?_](Singapore_Housing_ByronHuang/), Byron Huang
 
 ## Samples from elsewhere on the internet
 
